@@ -8,6 +8,12 @@ int main(){
     cout << "Test Primer"<< endl;
     cout << "Test Primer"<< endl;
     cout << "Test Primer"<< endl;
+    cout << "Test Primer"<< endl;
+    cout << "Test Primer"<< endl;
+    cout << "Test Primer1"<< endl;
+    cout << "Test Primer1"<< endl;
+    cout << "Test Primer2"<< endl;
+    cout << "Test Primer2"<< endl;
 
     system("PAUSE");
 }
