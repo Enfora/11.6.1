@@ -1,13 +1,17 @@
 // ШТРИФТ ЦЕЗАРЯ
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     setlocale(LC_ALL, "Russian");
-    cout << "Test Primer"<< endl;
+    int t = 1;
+    t++;
+    t++;
+    t--;
 
-    
-
+    cout << "HELLO !!! " << endl;
+    cout << t < endl;
 
     system("PAUSE");
 }
