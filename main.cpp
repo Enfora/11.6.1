@@ -11,7 +11,7 @@ int main()
     t--;
 
     cout << "HELLO !!! " << endl;
-    cout << t < endl;
+    cout << t << endl;
 
-    system("PAUSE");
+    //system("PAUSE");
 }
